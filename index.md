@@ -27,7 +27,7 @@ Awesome dude, great designer and programmer.
 - [LinkedIn](https://www.linkedin.com/in/duncan-vankeulen-7569a3154/)
 
 
-Future Full Stack Software developer at Tekton. I partake in many hobbies including gaming, music production, custom keyboards/PCs, FPV drone flying, game development, and more.
+Future Full Stack Software Developer at Tekton. I partake in many hobbies including gaming, music production, custom keyboards/PCs, FPV drone flying, game development, and more.
 
 # [Code](https://github.com/Inertia-Printers/InertiaPrintersWebsite)
 
