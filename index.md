@@ -17,7 +17,7 @@ Our vision, therefore, is to create a website that so seamlessly integrates with
 Awesome dude, great designer and programmer.
 
 
-#### Duncan VanKeulen
+#### Duncan Van Keulen
 
 ![](https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_800_800/0/1636598786106?e=1643846400&v=beta&t=tiGlIXb70O6YlHSc0S92mO2BzBhj-n-7PO4-JCfpUVc)
 
