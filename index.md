@@ -1,20 +1,20 @@
-#Vision
+# Vision
 
-#Team
+# Team
 
-##Joel Muyskens
+## Joel Muyskens
 
 
-##Duncan VanKeulen
+## Duncan VanKeulen
 ![](https://lh3.googleusercontent.com/nFoOt9vrUSlwDivGGNJpezcyEmByQaJaES19wFBD3IdS_HenPh38B2Tk4fnJOsdJS7qv1B2iHnp4RxW_kNAGe125WWY_GRpzTIVIZ6eFiRKMeYXT60ni7rZ3x8RlabOiyny6e-CzpCnSvyPEcPcAce6dZAFsooS78EhTVV8xGj6WlS_VFiBct37I2LEdGocyqbNTeBqYIEj8tzDKoEjt-vcmhnG6MOSu6cf6gpYQrqzeLNmJOLy7XBh3zHoQWdJuXlFMTAj1g2nJvu9w43l3ogy75KVMm94jRuIuBQQDMY55cMSh7vD0LqoWp0Df_N5r1VZnEICePkUzfgwK47u0fw4uPAPpwaQPxzUF_yKoaggWLsLkfJD6UxBznlWXmW3wBvyhewqk7UFDzurylQoYFEchjVA_rOLgB6EXfgUmuMK25V6AHCRMLenobz4O75X9VSWtFX-pD4Js03UTE4b-Hn016kraqZM453InCwLZJVYhbpg4lP6JxFHKVKZOkMF9cBVkT-IWudlvJ9xMw4Fs-Jo_Ao32ZzZtrkznawqrVEDUt7TQCF8WrAAPWw8iYTqybnd9hGJ3g1ksoWFFPtZxirvla6bXG35DNPibi5kDopekTuk7TbBZX_QZIBgRiXMjbPf9jKaAIykhe9EKm32vTSUSfs37nVsxfEMN11t6Hh4IYkr_i-M8D-NdOUytzynpsA5Dvgy-5TfKtxPeenup9q3B=w568-h855-no?authuser=0)
 
 
-#[Code](https://github.com/Inertia-Printers)
+# [Code](https://github.com/Inertia-Printers)
 
-#Report
+# Report
 [Our updated project proposal document](https://docs.google.com/document/d/1GXHvZdeAvZvZcEVXQ7mMKzlRHoEisZOMnRO4YWK44kQ/edit?usp=sharing)
 
-#Other links and resources
+# Other links and resources
 - [Calvin Univerity Department of Computer Science](https://computing.calvin.edu/)
 - [396 presentation](https://docs.google.com/presentation/d/1d_bJn5hZLWqen5sFH7_oFZz3XkPw17_uDcJn6yeATVo/edit?usp=sharing)
 
