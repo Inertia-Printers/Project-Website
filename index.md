@@ -3,13 +3,16 @@
 # Team
 
 ## Joel Muyskens
+[Github](https://github.com/Jrmuys)
 
 
 ## Duncan VanKeulen
-![](https://lh3.googleusercontent.com/nFoOt9vrUSlwDivGGNJpezcyEmByQaJaES19wFBD3IdS_HenPh38B2Tk4fnJOsdJS7qv1B2iHnp4RxW_kNAGe125WWY_GRpzTIVIZ6eFiRKMeYXT60ni7rZ3x8RlabOiyny6e-CzpCnSvyPEcPcAce6dZAFsooS78EhTVV8xGj6WlS_VFiBct37I2LEdGocyqbNTeBqYIEj8tzDKoEjt-vcmhnG6MOSu6cf6gpYQrqzeLNmJOLy7XBh3zHoQWdJuXlFMTAj1g2nJvu9w43l3ogy75KVMm94jRuIuBQQDMY55cMSh7vD0LqoWp0Df_N5r1VZnEICePkUzfgwK47u0fw4uPAPpwaQPxzUF_yKoaggWLsLkfJD6UxBznlWXmW3wBvyhewqk7UFDzurylQoYFEchjVA_rOLgB6EXfgUmuMK25V6AHCRMLenobz4O75X9VSWtFX-pD4Js03UTE4b-Hn016kraqZM453InCwLZJVYhbpg4lP6JxFHKVKZOkMF9cBVkT-IWudlvJ9xMw4Fs-Jo_Ao32ZzZtrkznawqrVEDUt7TQCF8WrAAPWw8iYTqybnd9hGJ3g1ksoWFFPtZxirvla6bXG35DNPibi5kDopekTuk7TbBZX_QZIBgRiXMjbPf9jKaAIykhe9EKm32vTSUSfs37nVsxfEMN11t6Hh4IYkr_i-M8D-NdOUytzynpsA5Dvgy-5TfKtxPeenup9q3B=w568-h855-no?authuser=0)
+[Github](http://github.com/TheDunco)
+[LinkedIn](https://www.linkedin.com/in/duncan-vankeulen-7569a3154/)
+Future Full Stack Software developer at Tekton. I partake in many hobbies including gaming, music production, custom keyboards, FPV drone flying, game development, and more.
 
 
-# [Code](https://github.com/Inertia-Printers)
+# [Code](https://github.com/Inertia-Printers/InertiaPrintersWebsite)
 
 # Report
 [Our updated project proposal document](https://docs.google.com/document/d/1GXHvZdeAvZvZcEVXQ7mMKzlRHoEisZOMnRO4YWK44kQ/edit?usp=sharing)
