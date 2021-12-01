@@ -2,13 +2,14 @@
 
 # Team
 
-## Joel Muyskens
+#### Joel Muyskens
 [Github](https://github.com/Jrmuys)
 
 
-## Duncan VanKeulen
+#### Duncan VanKeulen
 [Github](http://github.com/TheDunco)
 [LinkedIn](https://www.linkedin.com/in/duncan-vankeulen-7569a3154/)
+![](https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_800_800/0/1636598786106?e=1643846400&v=beta&t=tiGlIXb70O6YlHSc0S92mO2BzBhj-n-7PO4-JCfpUVc)
 Future Full Stack Software developer at Tekton. I partake in many hobbies including gaming, music production, custom keyboards, FPV drone flying, game development, and more.
 
 
