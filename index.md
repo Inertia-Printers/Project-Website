@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+#Vision
 
-You can use the [editor on GitHub](https://github.com/Inertia-Printers/Project-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#Team
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Joel Muyskens
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Duncan VanKeulen
+![](https://lh3.googleusercontent.com/nFoOt9vrUSlwDivGGNJpezcyEmByQaJaES19wFBD3IdS_HenPh38B2Tk4fnJOsdJS7qv1B2iHnp4RxW_kNAGe125WWY_GRpzTIVIZ6eFiRKMeYXT60ni7rZ3x8RlabOiyny6e-CzpCnSvyPEcPcAce6dZAFsooS78EhTVV8xGj6WlS_VFiBct37I2LEdGocyqbNTeBqYIEj8tzDKoEjt-vcmhnG6MOSu6cf6gpYQrqzeLNmJOLy7XBh3zHoQWdJuXlFMTAj1g2nJvu9w43l3ogy75KVMm94jRuIuBQQDMY55cMSh7vD0LqoWp0Df_N5r1VZnEICePkUzfgwK47u0fw4uPAPpwaQPxzUF_yKoaggWLsLkfJD6UxBznlWXmW3wBvyhewqk7UFDzurylQoYFEchjVA_rOLgB6EXfgUmuMK25V6AHCRMLenobz4O75X9VSWtFX-pD4Js03UTE4b-Hn016kraqZM453InCwLZJVYhbpg4lP6JxFHKVKZOkMF9cBVkT-IWudlvJ9xMw4Fs-Jo_Ao32ZzZtrkznawqrVEDUt7TQCF8WrAAPWw8iYTqybnd9hGJ3g1ksoWFFPtZxirvla6bXG35DNPibi5kDopekTuk7TbBZX_QZIBgRiXMjbPf9jKaAIykhe9EKm32vTSUSfs37nVsxfEMN11t6Hh4IYkr_i-M8D-NdOUytzynpsA5Dvgy-5TfKtxPeenup9q3B=w568-h855-no?authuser=0)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#[Code](https://github.com/Inertia-Printers)
 
-- Bulleted
-- List
+#Report
+[Our updated project proposal document](https://docs.google.com/document/d/1GXHvZdeAvZvZcEVXQ7mMKzlRHoEisZOMnRO4YWK44kQ/edit?usp=sharing)
 
-1. Numbered
-2. List
+#Other links and resources
+- [Calvin Univerity Department of Computer Science](https://computing.calvin.edu/)
+- [396 presentation](https://docs.google.com/presentation/d/1d_bJn5hZLWqen5sFH7_oFZz3XkPw17_uDcJn6yeATVo/edit?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Inertia-Printers/Project-Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
