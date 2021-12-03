@@ -1,3 +1,7 @@
+---
+modified: 2021-12-03T12:48:27-05:00
+---
+
 # Inertia Printers Senior Project
 
 # Vision
@@ -13,8 +17,9 @@ Our vision, therefore, is to create a website that so seamlessly integrates with
 ![](https://avatars.githubusercontent.com/u/25706574?v=4)
 
 - [Github](https://github.com/Jrmuys)
+- [LinkedIn](https://www.linkedin.com/in/joel-muyskens-797658157/)
 
-Awesome dude, great designer and programmer.
+Software engineering intern at ADAC Automotive with interests in full stack web development, embedded software, robotics, and space.
 
 
 #### Duncan Van Keulen
