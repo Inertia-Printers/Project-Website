@@ -14,17 +14,16 @@ Our vision, therefore, is to create a website that so seamlessly integrates with
 
 #### Joel Muyskens
 
-![](https://avatars.githubusercontent.com/u/25706574?v=4)
+<img src="https://avatars.githubusercontent.com/u/25706574?v=4" style="zoom:50%;border-radius:500px" />
 
 - [Github](https://github.com/Jrmuys)
 - [LinkedIn](https://www.linkedin.com/in/joel-muyskens-797658157/)
 
 Software engineering intern at ADAC Automotive with interests in full stack web development, embedded software, robotics, and space.
 
-
 #### Duncan Van Keulen
 
-![](https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_800_800/0/1636598786106?e=1643846400&v=beta&t=tiGlIXb70O6YlHSc0S92mO2BzBhj-n-7PO4-JCfpUVc)
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_800_800/0/1636598786106?e=1643846400&v=beta&t=tiGlIXb70O6YlHSc0S92mO2BzBhj-n-7PO4-JCfpUVc" style="zoom:53%;border-radius:500px" />
 
 
 - [Github](http://github.com/TheDunco)
