@@ -23,7 +23,7 @@ Software engineering intern at ADAC Automotive with interests in full stack web 
 
 #### Duncan Van Keulen
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_100_100/0/1636598786106?e=1654732800&v=beta&t=WbKxFt1ag8OQJR1y0vya72Kt_CpLUIeOKguBcdH3g0Q" style="zoom:53%;border-radius:500px" />
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQENscCa7DrXaw/profile-displayphoto-shrink_800_800/0/1636598786106?e=1654732800&v=beta&t=tEtu2bLhMYZpTV2b-OXG38lgxP6HN2zLR0X8_90LPtg" style="zoom:53%;border-radius:500px" />
 
 
 - [Github](http://github.com/TheDunco)
